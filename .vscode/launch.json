@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "type": "java",
+      "name": "Launch SmartPlannerApp",
+      "request": "launch",
+      "mainClass": "main.SmartPlannerApp",
+      "vmArgs": "--module-path /Users/rashiduzzamankhan/Documents/WebLadr/javafx-sdk-17.0.15/lib --add-modules javafx.controls,javafx.fxml -Djava.library.path=/Users/rashiduzzamankhan/Documents/WebLadr/javafx-sdk-17.0.15/lib"
+
+    }
+  ]
+}
+
