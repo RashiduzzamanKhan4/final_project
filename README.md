@@ -46,6 +46,8 @@ Option 2:
 
 Akib Khan – Full-stack dreamer, clean-code advocate, cricket enthusiast, and the man behind WebLadr.
 You’ll find him building apps, helping clients, and occasionally pondering the mysteries of semicolons.
+Presentation link from Canva- 
+https://www.canva.com/design/DAGk4ZGwVlA/xLp1jVkoFceBRjRrW4qqhw/view?utm_content=DAGk4ZGwVlA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h07530cac80
 
 [LinkedIn](https://www.linkedin.com/in/rashiduzzamankhan18/)
 
