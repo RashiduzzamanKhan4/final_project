@@ -1,3 +1,5 @@
+Video Presentation link- https://www.loom.com/share/d7370ee3e81a442ca9ba3377f445dfe9. 
+
 🎉 SmartPlanner – The App That Gets Stuff Done (Even when we don’t)
 # 🧠 SmartPlanner – Because Sticky Notes Are So Last Century
 
@@ -46,7 +48,10 @@ Option 2:
 
 Akib Khan – Full-stack dreamer, clean-code advocate, cricket enthusiast, and the man behind WebLadr.
 You’ll find him building apps, helping clients, and occasionally pondering the mysteries of semicolons.
+Video Presentation link- https://www.loom.com/share/d7370ee3e81a442ca9ba3377f445dfe9. 
+
 Presentation link from Canva- 
+
 https://www.canva.com/design/DAGk4ZGwVlA/xLp1jVkoFceBRjRrW4qqhw/view?utm_content=DAGk4ZGwVlA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h07530cac80
 
 [LinkedIn](https://www.linkedin.com/in/rashiduzzamankhan18/)
